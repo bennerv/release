@@ -14,6 +14,7 @@ unset VERSION
 
 # Generate
 cd api
+npm ci
 make generate
 
 # Format (from root)
